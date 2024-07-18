@@ -15,7 +15,6 @@ namespace Cards_Library_Sample.Bots
         private const string DemoDeactivateActions = "Deactivate actions";
         private const string DemoDeactivateCards = "Deactivate cards";
         private const string DemoDeactivateCarousels = "Deactivate carousels";
-        private const string DemoDeactivateBatch = "Deactivate batch";
         private const string DemoTranslateCards = "Translate cards";
 
         private const string BehaviorTranslate = "translate";
