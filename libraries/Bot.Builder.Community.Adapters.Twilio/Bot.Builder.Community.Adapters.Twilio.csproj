@@ -32,7 +32,7 @@
   </ItemGroup>
     
   <ItemGroup>
-    <PackageReference Include="Twilio" Version="5.37.2" />
+    <PackageReference Include="Twilio" Version="5.76.0" />
     <PackageReference Include="Microsoft.Bot.Builder.Integration.AspNet.Core" Version="$(Bot_Builder_Version)" />
   </ItemGroup>
 
